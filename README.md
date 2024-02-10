@@ -1,6 +1,6 @@
 ## Bharat BitCoin
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://bharatscan.com/bbc-logo-explorer-white.png))
+<img src="https://bharatscan.com/bbc-logo-explorer-white.png" />
 
 
 [![API Reference](
