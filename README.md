@@ -1,6 +1,7 @@
-## Go Ethereum
+## Bharat BitCpon
 
-Official Golang execution layer implementation of the Ethereum protocol.
+
+https://bharatscan.com/bbc-logo-explorer-white.png
 
 [![API Reference](
 https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667
@@ -54,21 +55,6 @@ on how you can run your own `geth` instance.
 
 ### Hardware Requirements
 
-Minimum:
-
-* CPU with 2+ cores
-* 4GB RAM
-* 1TB free storage space to sync the Mainnet
-* 8 MBit/sec download Internet service
-
-Recommended:
-
-* Fast CPU with 4+ cores
-* 16GB+ RAM
-* High-performance SSD with at least 1TB of free space
-* 25+ MBit/sec download Internet service
-
-### Full node on the main Ethereum network
 
 By far the most common scenario is people wanting to simply interact with the Ethereum
 network: create accounts; transfer funds; deploy and interact with contracts. For this
