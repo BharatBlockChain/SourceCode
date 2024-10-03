@@ -1,6 +1,6 @@
-## Bharat BitCoin
+## Bharat BLockChain
 
-<img src="https://bharatscan.com/bbc-logo-explorer-white.png" />
+<img src="https://bharatscan.com/assets/configs/network_logo.png" />
 
 Automated builds are available for stable releases and the unstable master branch. 
 
