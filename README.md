@@ -1,4 +1,4 @@
-## Bharat BLockChain
+## Bharat BlockChain
 
 <img src="https://bharatscan.com/assets/configs/network_logo.png" />
 
